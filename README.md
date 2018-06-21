@@ -1,4 +1,4 @@
-<h2>Basic IP Control Query Using SOAP API in Python<h2>
+<h2>Basic IP Control Query Using SOAP API in Python</h2>
 
 <p>This solves a problem found here:</p>
 
